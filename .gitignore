@@ -1,0 +1,6 @@
+/.env
+/.idea
+/venv/
+/event_source_urls_extraction/bert_multi_cased_L-12_H-768_A-12_4/
+cost_time.csv
+__pycache__/
